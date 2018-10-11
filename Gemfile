@@ -19,6 +19,7 @@ group :development, :test do
   gem 'factory_bot_rails'
   gem 'pry-rails'
   gem 'byebug'
+  gem 'devise_token_auth'
 end
 
 group :development do
